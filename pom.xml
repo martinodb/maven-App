@@ -33,8 +33,6 @@
       <configuration>
         <archive>
           <manifest>
-            <addClasspath>true</addClasspath>
-            <classpathPrefix>lib/</classpathPrefix>
             <mainClass>com.mycompany.app.App</mainClass>
           </manifest>
         </archive>
