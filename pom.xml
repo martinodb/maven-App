@@ -35,6 +35,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <mainClass>com.mycompany.app.App</mainClass>
+            <classpathPrefix>dependency/</classpathPrefix> 
           </manifest>
         </archive>
       </configuration>
